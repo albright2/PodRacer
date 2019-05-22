@@ -10,5 +10,8 @@ java and RAGE engine video game
 - java gaming folder found on https://athena.ecs.csus.edu/~gordonvs/165/165homework.html
 
 
+my website of gameplay: http://albrightj.com/website/assignment3/pod_racer.html
+
+
 
 
